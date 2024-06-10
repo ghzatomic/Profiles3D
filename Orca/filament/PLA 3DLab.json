@@ -1,4 +1,7 @@
 {
+    "filament_cost": [
+        "98"
+    ],
     "filament_settings_id": [
         "PLA 3DLab"
     ],
@@ -13,7 +16,10 @@
     "is_custom_defined": "0",
     "name": "PLA 3DLab",
     "nozzle_temperature": [
-        "195"
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
     ],
     "version": "2.0.2.0"
 }
