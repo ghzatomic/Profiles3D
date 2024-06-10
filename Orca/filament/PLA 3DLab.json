@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "PLA 3DLab"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "PLA 3DLab",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "version": "2.0.2.0"
+}

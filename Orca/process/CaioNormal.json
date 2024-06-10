@@ -1,0 +1,19 @@
+{
+    "brim_type": "auto_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V3SE",
+    "internal_solid_infill_speed": "100",
+    "is_custom_defined": "0",
+    "line_width": "0.42",
+    "name": "CaioNormal",
+    "print_settings_id": "CaioNormal",
+    "slow_down_layers": "1",
+    "sparse_infill_speed": "100",
+    "support_on_build_plate_only": "1",
+    "support_style": "default",
+    "support_threshold_angle": "60",
+    "support_type": "tree(auto)",
+    "version": "2.0.2.0",
+    "wall_loops": "3"
+}
