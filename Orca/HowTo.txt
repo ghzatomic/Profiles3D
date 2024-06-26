@@ -1,1 +1,3 @@
 C:\Users\CaioUsuario\AppData\Roaming\OrcaSlicer\user\default\process
+tem q jogar na pasta 
+C:\Users\CaioUsuario\AppData\Roaming\OrcaSlicer\system\Creality\process

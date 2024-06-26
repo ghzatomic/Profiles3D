@@ -1,5 +1,12 @@
 {
-    "brim_type": "auto_brim",
+    "brim_type": "outer_only",
+    "compatible_printers": [
+        "Creality Ender-3 V3 SE",
+        "Creality Ender-3 V3 SE 0.4 nozzle",
+        "Creality Ender-3 V3 SE 0.2 nozzle",
+        "Creality Ender-3 V3 SE 0.8 nozzle",
+        "Creality Ender-3 V3 SE 0.6 nozzle"
+    ],
     "enable_support": "1",
     "from": "User",
     "gap_infill_speed": "25",
@@ -21,14 +28,9 @@
     "support_on_build_plate_only": "1",
     "support_speed": "25",
     "support_style": "default",
-    "support_threshold_angle": "60",
+    "support_threshold_angle": "30",
     "support_type": "tree(auto)",
     "top_surface_speed": "25",
     "version": "2.0.2.0",
-    "wall_loops": "3",
-"compatible_printers": [
-		"Creality Ender-3 V3 SE","Creality Ender-3 V3 SE 0.4 nozzle","Creality Ender-3 V3 SE 0.2 nozzle"
-,"Creality Ender-3 V3 SE 0.8 nozzle"
-,"Creality Ender-3 V3 SE 0.6 nozzle"
-	]
+    "wall_loops": "3"
 }
