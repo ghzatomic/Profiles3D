@@ -1,0 +1,46 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "filament_cost": [
+        "98"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "2"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
+    ],
+    "filament_settings_id": [
+        "PLA 3DLab Wood"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "62"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "62"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "PLA 3DLab Wood",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "2.0.2.0"
+}
