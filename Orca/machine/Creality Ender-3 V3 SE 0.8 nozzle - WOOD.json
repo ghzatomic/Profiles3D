@@ -1,0 +1,25 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 SE 0.8 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_speed_e": [
+        "45",
+        "40"
+    ],
+    "name": "Creality Ender-3 V3 SE 0.8 nozzle - WOOD",
+    "nozzle_type": "hardened_steel",
+    "printer_settings_id": "Creality Ender-3 V3 SE 0.8 nozzle - WOOD",
+    "retraction_length": [
+        "2"
+    ],
+    "retraction_speed": [
+        "50"
+    ],
+    "version": "2.1.1.0",
+    "z_hop": [
+        "0.8"
+    ],
+    "z_hop_types": [
+        "Spiral Lift"
+    ]
+}
